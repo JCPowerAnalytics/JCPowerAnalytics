@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jeremydave.castillo@unmsm.edu.pe**
   
-- ⚡ Fun fact **Call me as JCastle**
+- ⚡📚 Fun fact **I love Visual Novels**
 
 </td>
 <td width="50%" align="center">
