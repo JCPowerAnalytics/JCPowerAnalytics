@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/user-attachments/assets/bd80cad1-67ec-43e0-8c9c-ce4302144fc2" width = 100px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/user-attachments/assets/ac9634d5-28d9-4cac-93c9-c76bd0f2dd36" width = 100px></picture></p>
 <h1 align="center"> Hello 🙋‍♂️, good morning ☀️, good afternoon ☁️, good evening 🌙 from wherever you are 🌎! I'm Jeremy Castillo. </h1>
 <h3 align="center"> Passionate Industrial Engineering Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
